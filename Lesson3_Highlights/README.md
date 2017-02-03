@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 2, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Sarah Voelker)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is summarizing version control and how it is beneficial for web app developers.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The differences in Local, Centralized, and Distributed VCSs and what they do.
+2. Git was created to be a free, open source software for the Linux kernel.
+3. How a git repository is created and two different ways to do this.
